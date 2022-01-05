@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akulation
-- 👀 I’m interested in HTML and basic modding
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in HTML and System Administration
+- 🌱 I’m currently learning JavaScript
 
 <!---
 Akulation/Akulation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
