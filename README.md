@@ -1,6 +1,7 @@
 - Hi, I’m @Akulation
-- I’m interested in HTML and System Administration
+- I’m a Web Developer and System Admin
 - You can contact me on Discord, Akulation#0001
+- My website https://akulation.xyz
 
 <!---
 Akulation/Akulation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
