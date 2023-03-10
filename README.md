@@ -1,3 +1,2 @@
-- Hi, I’m Akulation
-- You can contact me on Discord, Akulation#0001
-- My website https://akulation.com
+- .NET Developer
+- https://akulation.com
